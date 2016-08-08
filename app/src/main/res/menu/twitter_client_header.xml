@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".TimeLineActivity">
+
+    <item android:id="@+id/compose_tweet"
+        android:orderInCategory="6"
+        app:actionLayout="@layout/action_compose_tweet"
+        android:title="@string/compose_tweet"
+        app:showAsAction="ifRoom"
+        />
+
+</menu>

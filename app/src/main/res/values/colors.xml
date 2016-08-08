@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="header">#57ADEE</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="light_blue">#334ee9ff</color>
+    <color name="medium_green">#3d853e</color>
+    <color name="light_green">#3c2ae668</color>
+    <color name="dialog_bg">#FAFAFA</color>
+    <color name="white">#FAFAFA</color>
+    <color name="cancel">#FF8A65</color>
+    <color name="save">#81C784</color>
+    <color name="main_bg">#F5F8FA</color>
+</resources>
